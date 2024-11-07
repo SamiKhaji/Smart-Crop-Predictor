@@ -1,5 +1,10 @@
 # Crop Prediction System with Raspberry Pi Pico
-
+## Team:
+Abhiram A
+Vaibhav CS
+Ammi Reddy K
+Mahammad Sami K
+Vinayakan VS
 ## Overview
 This project utilizes the Raspberry Pi Pico microcontroller to implement a smart agriculture system. It integrates sensor data collection, machine learning, and real-time display to predict suitable crops based on soil conditions.
 
